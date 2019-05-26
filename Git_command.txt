@@ -3,3 +3,7 @@
 2、添加文件到Git仓库：
 	1、git add <file_name>
 	2、git commit -m <operating record>#记录操作信息
+
+3、git status : 查看仓库当前状态
+
+4、git diff : 查看修改内容  	#diff --> difference

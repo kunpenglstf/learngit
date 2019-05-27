@@ -6,4 +6,4 @@ Git tracks changes of files.
 
 Creating a new branch is quick
 
-first test is fail
+first test is fail, but the second is successful. is ok!

@@ -6,4 +6,13 @@ Git tracks changes of files.
 
 Creating a new branch is quick
 
+<<<<<<< HEAD
 first test is fail, but the second is successful and is ok!.......
+=======
+first test is fail, but the second is successful and is ok!
+
+I'm back!
+>>>>>>> featurel
+
+
+?????????????
